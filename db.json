@@ -2,13 +2,13 @@
     "users": [
         { 
             "id": 1, 
-            "user": "andrec230@gmail.com", 
+            "name": "andrec230@gmail.com", 
             "password": "123", 
             "token": ""
         },
         { 
             "id": 2, 
-            "user": "mjackson@pragma.com.co", 
+            "name": "mjackson@pragma.com.co", 
             "password": "moonw", 
             "token": ""
         }
