@@ -1,18 +1,16 @@
 {
-    "cars": [
+    "users": [
         { 
             "id": 1, 
-            "model": "Corsa", 
-            "year": "1996", 
-            "color": "Red", 
-            "liters": "1.2" 
+            "user": "andrec230@gmail.com", 
+            "password": "123", 
+            "token": ""
         },
         { 
-            "id": 1, 
-            "model": "Sandero", 
-            "year": "2017", 
-            "color": "Blue", 
-            "liters": "1.8" 
+            "id": 2, 
+            "user": "mjackson@pragma.com.co", 
+            "password": "moonw", 
+            "token": ""
         }
     ]    
   }
