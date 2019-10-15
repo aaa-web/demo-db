@@ -5,12 +5,6 @@
             "name": "andrec230@gmail.com", 
             "password": "123", 
             "token": ""
-        },
-        { 
-            "id": 2, 
-            "name": "mjackson@pragma.com.co", 
-            "password": "moonw", 
-            "token": ""
         }
-    ]    
+    ]
   }
