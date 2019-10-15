@@ -2,7 +2,7 @@
     "users": [
         { 
             "id": 1, 
-            "name": "andrec230@gmail.com", 
+            "mail": "andrec230@gmail.com", 
             "password": "123", 
             "token": ""
         }
